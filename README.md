@@ -1,2 +1,2 @@
 # Gym
-Gym membership that allows customers to buy or cancell
+Gym membership that allows customers to buy or cancel
